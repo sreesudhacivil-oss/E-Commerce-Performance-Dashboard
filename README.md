@@ -42,7 +42,54 @@ This repository contains an **interactive Excel-based dashboard** for analyzing 
 
 
 
+
+
+
+
+
+
+
+
+
+**DASHBOARD 1**
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="2789" height="1133" alt="Screenshot 2025-09-18 130014" src="https://github.com/user-attachments/assets/985f95a3-bfcc-4dbb-ad32-b363f92ec527" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**DASHBOARD 2**
+
+
+
+
 
 
 
@@ -60,8 +107,53 @@ This repository contains an **interactive Excel-based dashboard** for analyzing 
 
 
 
+
+
+
+
+
+
+
+
+**DASHBOARD 3**
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="2778" height="1128" alt="Screenshot 2025-09-18 130205" 
 src="https://github.com/user-attachments/assets/7cb38c24-446b-4bdf-8411-bd6a5649a3e2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**DASHBOARD 4**
+
+
+
+
+
 
 
 
