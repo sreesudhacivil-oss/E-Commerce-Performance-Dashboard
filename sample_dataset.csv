@@ -1,0 +1,100 @@
+﻿Order ID,Order Date,Ship Date,Aging,Ship Mode,Product Category,Product, Sales ,Quantity,Discount, Profit , Shipping Cost ,Order Priority,Customer ID,Segment,City,State,Country,Region,Months,Financial Quarter,Year
+AU-2020-1,11/09/20,11/17/20,8,First Class,Auto & Accessories,Car Media Players, $140.0 ,2,0.05, $46.0 , $4.6 ,Medium,LS-001,Consumer,Brisbane,Queensland,Australia,Oceania,Nov,Q4,2020
+AU-2020-2,06/30/20,07/02/20,2,First Class,Auto & Accessories,Car Speakers, $211.0 ,3,0.03, $112.0 , $11.2 ,Medium,IZ-002,Home Office,Berlin,Berlin,Germany,Central,Jun,Q2,2020
+AU-2020-3,12/05/20,12/13/20,8,First Class,Auto & Accessories,Car Body Covers, $117.0 ,5,0.01, $31.2 , $3.1 ,Critical,EN-003,Consumer,Porirua,Wellington,New Zealand,Oceania,Dec,Q4,2020
+AU-2020-4,05/09/20,05/16/20,7,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,2,0.05, $26.2 , $2.6 ,High,AN-004,Corporate,Kabul,Kabul,Afghanistan,Central Asia,May,Q2,2020
+AU-2020-5,07/09/20,07/18/20,9,First Class,Auto & Accessories,Tyre, $250.0 ,1,0.04, $160.0 , $16.0 ,Critical,ON-005,Corporate,Townsville,Queensland,Australia,Oceania,Jul,Q3,2020
+AU-2020-6,02/25/20,03/05/20,8,First Class,Auto & Accessories,Bike Tyres, $72.0 ,3,0.04, $24.0 , $2.4 ,Critical,TO-006,Corporate,Bytom,Silesia,Poland,EMEA,Feb,Q1,2020
+AU-2020-7,04/09/20,04/10/20,1,First Class,Auto & Accessories,Car Mat, $54.0 ,1,0.05, $54.0 , $5.4 ,High,OM-007,Consumer,Chicago,Illinois,United States,Central,Apr,Q2,2020
+AU-2020-8,03/30/20,04/06/20,7,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,5,0.02, $22.6 , $2.3 ,Critical,AN-008,Corporate,Suzhou,Anhui,China,North Asia,Mar,Q1,2020
+AU-2020-9,02/09/20,02/16/20,7,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,5,0.03, $116.4 , $11.6 ,Critical,EN-009,Consumer,Juárez,Chihuahua,Mexico,North,Feb,Q1,2020
+AU-2020-10,04/21/20,05/01/20,10,First Class,Auto & Accessories,Car Media Players, $140.0 ,2,0.02, $54.4 , $5.4 ,Critical,TT-0010,Consumer,Soyapango,San Salvador,El Salvador,Central,Apr,Q2,2020
+AU-2020-11,11/16/20,11/26/20,10,First Class,Auto & Accessories,Car Speakers, $211.0 ,4,0.01, $122.6 , $12.3 ,Critical,ED-0011,Corporate,Taipei,Taipei City,Taiwan,North Asia,Nov,Q4,2020
+AU-2020-12,09/01/20,09/02/20,1,First Class,Auto & Accessories,Car Body Covers, $117.0 ,4,0.04, $18.3 , $1.8 ,High,ON-0012,Home Office,Los Angeles,California,United States,West,Sep,Q3,2020
+AU-2020-13,07/09/20,07/16/20,7,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,1,0.02, $35.6 , $3.6 ,Critical,WN-0013,Corporate,Saint-Brieuc,Brittany,France,Central,Jul,Q3,2020
+AU-2020-14,07/22/20,07/27/20,5,First Class,Auto & Accessories,Tyre, $250.0 ,3,0.04, $140.0 , $14.0 ,High,AN-0014,Corporate,Kamina,Katanga,Democratic Republic of the Congo,Africa,Jul,Q3,2020
+AU-2020-15,10/12/20,10/21/20,9,First Class,Auto & Accessories,Bike Tyres, $72.0 ,4,0.01, $18.0 , $1.8 ,Medium,EY-0015,Consumer,Brisbane,Queensland,Australia,Oceania,Oct,Q4,2020
+AU-2020-16,02/23/20,03/05/20,10,First Class,Auto & Accessories,Car Mat, $54.0 ,2,0.01, $27.0 , $2.7 ,Critical,RN-0016,Consumer,Berlin,Berlin,Germany,Central,Feb,Q1,2020
+AU-2020-17,05/04/20,05/08/20,4,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,2,0.05, $22.6 , $2.3 ,High,CK-0017,Consumer,Shouguang,Shandong,China,North Asia,May,Q2,2020
+AU-2020-18,06/12/20,06/19/20,7,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,5,0.05, $93.3 , $9.3 ,High,RE-0018,Consumer,New York City,New York,United States,East,Jun,Q2,2020
+AU-2020-19,05/13/20,05/20/20,7,First Class,Auto & Accessories,Car Media Players, $140.0 ,2,0.05, $46.0 , $4.6 ,Critical,ON-0019,Consumer,Behshahr,Mazandaran,Iran,EMEA,May,Q2,2020
+AU-2020-20,07/27/20,08/02/20,6,First Class,Auto & Accessories,Car Speakers, $211.0 ,2,0.02, $122.6 , $12.3 ,Critical,ED-0020,Corporate,Taipei,Taipei City,Taiwan,North Asia,Jul,Q3,2020
+AU-2020-21,12/09/20,12/13/20,4,First Class,Auto & Accessories,Car Body Covers, $117.0 ,5,0.01, $31.2 , $3.1 ,Critical,AM-0021,Consumer,Bhopal,Madhya Pradesh,India,Central Asia,Dec,Q4,2020
+AU-2020-22,02/09/20,02/16/20,7,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,2,0.03, $30.9 , $3.1 ,High,KE-0022,Corporate,Seattle,Washington,United States,West,Feb,Q1,2020
+AU-2020-23,07/20/20,07/26/20,6,First Class,Auto & Accessories,Tyre, $250.0 ,4,0.02, $150.0 , $15.0 ,High,LL-0023,Consumer,Geraldton,Western Australia,Australia,Oceania,Jul,Q3,2020
+AU-2020-24,11/22/20,11/24/20,2,First Class,Auto & Accessories,Bike Tyres, $72.0 ,4,0.02, $18.0 , $1.8 ,Critical,CO-0024,Corporate,Celle,Lower Saxony,Germany,Central,Nov,Q4,2020
+AU-2020-25,02/22/20,03/02/20,8,First Class,Auto & Accessories,Car Mat, $54.0 ,1,0.05, $54.0 , $5.4 ,High,NA-0025,Consumer,Seville,Andalusía,Spain,South,Feb,Q1,2020
+AU-2020-26,04/06/20,04/10/20,4,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,4,0.02, $24.9 , $2.5 ,Critical,LL-0026,Corporate,Raipur,Uttarakhand,India,Central Asia,Apr,Q2,2020
+AU-2020-27,07/27/20,08/04/20,8,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,1,0.03, $144.1 , $14.4 ,Critical,LE-0027,Home Office,Kharkiv,Kharkiv,Ukraine,EMEA,Jul,Q3,2020
+AU-2020-28,09/29/20,10/05/20,6,First Class,Auto & Accessories,Car Media Players, $140.0 ,1,0.03, $55.8 , $5.6 ,High,NG-0028,Corporate,Jinan,Shandong,China,North Asia,Sep,Q3,2020
+AU-2020-29,04/11/20,04/18/20,7,First Class,Auto & Accessories,Car Speakers, $211.0 ,3,0.03, $112.0 , $11.2 ,Medium,ED-0029,Consumer,Chinandega,Chinandega,Nicaragua,Central,Apr,Q2,2020
+AU-2020-30,01/23/20,01/27/20,4,First Class,Auto & Accessories,Car Body Covers, $117.0 ,1,0.02, $34.7 , $3.5 ,High,AS-0030,Corporate,Palembang,Sumatera Selatan,Indonesia,Southeast Asia,Jan,Q1,2020
+AU-2020-31,03/31/20,04/09/20,9,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,3,0.03, $27.4 , $2.7 ,Critical,WN-0031,Consumer,Duisburg,North Rhine-Westphalia,Germany,Central,Mar,Q1,2020
+AU-2020-32,11/24/20,11/29/20,5,First Class,Auto & Accessories,Tyre, $250.0 ,1,0.02, $165.0 , $16.5 ,Medium,AN-0032,Consumer,Tongi,Dhaka,Bangladesh,Central Asia,Nov,Q4,2020
+AU-2020-33,08/24/20,09/03/20,10,First Class,Auto & Accessories,Bike Tyres, $72.0 ,4,0.05, $18.0 , $1.8 ,High,KI-0033,Consumer,Suzhou,Anhui,China,North Asia,Aug,Q3,2020
+AU-2020-34,05/04/20,05/09/20,5,First Class,Auto & Accessories,Car Mat, $54.0 ,4,0.05, $13.5 , $1.4 ,Critical,EE-0034,Corporate,Henderson,Nevada,United States,West,May,Q2,2020
+AU-2020-35,07/15/20,07/16/20,1,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,4,0.01, $29.4 , $2.9 ,High,ON-0035,Corporate,Manila,National Capital,Philippines,Southeast Asia,Jul,Q3,2020
+AU-2020-36,10/03/20,10/07/20,4,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,2,0.05, $127.9 , $12.8 ,High,SH-0036,Consumer,Graz,Styria,Austria,Central,Oct,Q4,2020
+AU-2020-37,06/28/20,07/04/20,6,First Class,Auto & Accessories,Car Media Players, $140.0 ,5,0.04, $32.0 , $3.2 ,Medium,KE-0037,Corporate,Puebla,Puebla,Mexico,North,Jun,Q2,2020
+AU-2020-38,08/01/20,08/04/20,3,First Class,Auto & Accessories,Car Speakers, $211.0 ,4,0.01, $122.6 , $12.3 ,Critical,YD-0038,Consumer,Augsburg,Bavaria,Germany,Central,Aug,Q3,2020
+AU-2020-39,06/07/20,06/09/20,2,First Class,Auto & Accessories,Car Body Covers, $117.0 ,1,0.04, $32.3 , $3.2 ,High,MS-0039,Home Office,Medellín,Antioquia,Colombia,South,Jun,Q2,2020
+AU-2020-40,08/16/20,08/22/20,6,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,5,0.04, $14.4 , $1.4 ,Critical,RE-0040,Consumer,Sydney,New South Wales,Australia,Oceania,Aug,Q3,2020
+AU-2020-41,07/09/20,07/13/20,4,First Class,Auto & Accessories,Tyre, $250.0 ,5,0.03, $132.5 , $13.3 ,Critical,ER-0041,Corporate,Los Angeles,California,United States,West,Jul,Q3,2020
+AU-2020-42,02/25/20,03/05/20,8,First Class,Auto & Accessories,Bike Tyres, $72.0 ,5,0.02, $14.4 , $1.4 ,Critical,IN-0042,Consumer,Zigong,Sichuan,China,North Asia,Feb,Q1,2020
+AU-2020-43,10/26/20,10/27/20,1,First Class,Auto & Accessories,Car Mat, $54.0 ,5,0.01, $10.8 , $1.1 ,High,EN-0043,Consumer,Adelaide,South Australia,Australia,Oceania,Oct,Q4,2020
+AU-2020-44,12/22/20,12/27/20,5,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,4,0.04, $15.8 , $1.6 ,Critical,DI-0044,Consumer,Kuantan,Pahang,Malaysia,Southeast Asia,Dec,Q4,2020
+AU-2020-45,04/24/20,05/01/20,7,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,4,0.04, $114.0 , $11.4 ,High,TT-0045,Home Office,Harrisonburg,Virginia,United States,South,Apr,Q2,2020
+AU-2020-46,09/20/20,09/28/20,8,First Class,Auto & Accessories,Car Media Players, $140.0 ,2,0.05, $46.0 , $4.6 ,Critical,ER-0046,Consumer,Everett,Massachusetts,United States,East,Sep,Q3,2020
+AU-2020-47,03/12/20,03/18/20,6,First Class,Auto & Accessories,Car Speakers, $211.0 ,1,0.01, $128.9 , $12.9 ,Critical,CH-0047,Corporate,Vadodara,Gujarat,India,Central Asia,Mar,Q1,2020
+AU-2020-48,03/30/20,03/31/20,1,First Class,Auto & Accessories,Car Body Covers, $117.0 ,4,0.05, $13.6 , $1.4 ,Critical,CK-0048,Consumer,Sanya,Hainan,China,North Asia,Mar,Q1,2020
+AU-2020-49,07/23/20,07/29/20,6,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,5,0.04, $14.4 , $1.4 ,Critical,TT-0049,Corporate,San Diego,California,United States,West,Jul,Q3,2020
+AU-2020-50,01/25/20,01/30/20,5,First Class,Auto & Accessories,Tyre, $250.0 ,2,0.01, $165.0 , $16.5 ,Medium,RS-0050,Home Office,Guaymas,Sonora,Mexico,North,Jan,Q1,2020
+AU-2020-51,06/05/20,06/08/20,3,First Class,Auto & Accessories,Bike Tyres, $72.0 ,2,0.01, $36.0 , $3.6 ,Critical,AN-0051,Consumer,Wuhan,Hubei,China,North Asia,Jun,Q2,2020
+AU-2020-52,11/27/20,12/03/20,6,First Class,Auto & Accessories,Car Mat, $54.0 ,5,0.03, $10.8 , $1.1 ,High,LE-0052,Consumer,Madison,Wisconsin,United States,Central,Nov,Q4,2020
+AU-2020-53,06/19/20,06/23/20,4,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,4,0.05, $11.2 , $1.1 ,High,IS-0053,Home Office,Salto,São Paulo,Brazil,South,Jun,Q2,2020
+AU-2020-54,10/14/20,10/16/20,2,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,2,0.04, $132.5 , $13.3 ,High,LY-0054,Consumer,Hargeysa,Woqooyi Galbeed,Somalia,Africa,Oct,Q4,2020
+AU-2020-55,07/01/20,07/07/20,6,First Class,Auto & Accessories,Car Media Players, $140.0 ,2,0.03, $51.6 , $5.2 ,High,NT-0055,Home Office,Perth,Western Australia,Australia,Oceania,Jul,Q3,2020
+AU-2020-56,08/11/20,08/16/20,5,First Class,Auto & Accessories,Car Speakers, $211.0 ,1,0.01, $128.9 , $12.9 ,Critical,IE-0056,Consumer,Anshan,Liaoning,China,North Asia,Aug,Q3,2020
+AU-2020-57,09/01/20,09/09/20,8,First Class,Auto & Accessories,Car Body Covers, $117.0 ,4,0.02, $27.6 , $2.8 ,High,SS-0057,Consumer,Amsterdam,North Holland,Netherlands,Central,Sep,Q3,2020
+AU-2020-58,02/16/20,02/21/20,5,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,3,0.05, $20.3 , $2.0 ,Critical,ON-0058,Consumer,Le Petit-Quevilly,Upper Normandy,France,Central,Feb,Q1,2020
+AU-2020-59,01/06/20,01/12/20,6,First Class,Auto & Accessories,Tyre, $250.0 ,1,0.04, $160.0 , $16.0 ,Medium,EN-0059,Corporate,Detroit,Michigan,United States,Central,Jan,Q1,2020
+AU-2020-60,09/04/20,09/07/20,3,First Class,Auto & Accessories,Bike Tyres, $72.0 ,2,0.03, $36.0 , $3.6 ,High,ON-0060,Consumer,Hamburg,Hamburg,Germany,Central,Sep,Q3,2020
+AU-2020-61,12/27/20,01/05/21,9,First Class,Auto & Accessories,Car Mat, $54.0 ,5,0.01, $10.8 , $1.1 ,High,KS-0061,Home Office,Morelia,Michoacán,Mexico,North,Dec,Q4,2020
+AU-2020-62,03/27/20,04/05/20,9,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,3,0.01, $30.6 , $3.1 ,High,ON-0062,Consumer,Changchun,Jilin,China,North Asia,Mar,Q1,2020
+AU-2020-63,08/27/20,09/04/20,8,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,5,0.02, $127.9 , $12.8 ,Medium,EY-0063,Corporate,Madrid,Madrid,Spain,South,Aug,Q3,2020
+AU-2020-64,08/24/20,08/26/20,2,First Class,Auto & Accessories,Car Media Players, $140.0 ,1,0.05, $53.0 , $5.3 ,Critical,ED-0064,Corporate,Taipei,Taipei City,Taiwan,North Asia,Aug,Q3,2020
+AU-2020-65,04/09/20,04/13/20,4,First Class,Auto & Accessories,Car Speakers, $211.0 ,2,0.05, $109.9 , $11.0 ,Medium,RE-0065,Consumer,Newcastle,New South Wales,Australia,Oceania,Apr,Q2,2020
+AU-2020-66,08/20/20,08/22/20,2,First Class,Auto & Accessories,Car Body Covers, $117.0 ,1,0.02, $34.7 , $3.5 ,High,LL-0066,Consumer,Surakarta,Jawa Tengah,Indonesia,Southeast Asia,Aug,Q3,2020
+AU-2020-67,02/08/20,02/11/20,3,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,1,0.01, $36.8 , $3.7 ,High,SS-0067,Home Office,New York City,New York,United States,East,Feb,Q1,2020
+AU-2020-68,11/26/20,11/27/20,1,First Class,Auto & Accessories,Tyre, $250.0 ,1,0.01, $167.5 , $16.8 ,High,EN-0068,Corporate,Beijing,Beijing,China,North Asia,Nov,Q4,2020
+AU-2020-69,05/19/20,05/21/20,2,First Class,Auto & Accessories,Bike Tyres, $72.0 ,1,0.02, $72.0 , $7.2 ,High,LO-0069,Corporate,London,England,United Kingdom,North,May,Q2,2020
+AU-2020-70,07/23/20,07/27/20,4,First Class,Auto & Accessories,Car Mat, $54.0 ,1,0.03, $54.0 , $5.4 ,Critical,ER-0070,Consumer,Talence,Aquitaine,France,Central,Jul,Q3,2020
+AU-2020-71,03/06/20,03/08/20,2,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,4,0.03, $20.3 , $2.0 ,Medium,NT-0071,Corporate,Aurangabad,Bihar,India,Central Asia,Mar,Q1,2020
+AU-2020-72,09/20/20,09/23/20,3,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,3,0.05, $116.4 , $11.6 ,Medium,ON-0072,Corporate,Los Angeles,California,United States,West,Sep,Q3,2020
+AU-2020-73,10/07/20,10/13/20,6,First Class,Auto & Accessories,Car Media Players, $140.0 ,4,0.05, $32.0 , $3.2 ,High,RT-0073,Consumer,Marikina,National Capital,Philippines,Southeast Asia,Oct,Q4,2020
+AU-2020-74,05/30/20,05/31/20,1,First Class,Auto & Accessories,Car Speakers, $211.0 ,5,0.01, $120.5 , $12.0 ,Critical,EP-0074,Home Office,Johannesburg,Gauteng,South Africa,Africa,May,Q2,2020
+AU-2020-75,12/19/20,12/23/20,4,First Class,Auto & Accessories,Car Body Covers, $117.0 ,4,0.01, $32.3 , $3.2 ,High,AN-0075,Home Office,Providence,Rhode Island,United States,East,Dec,Q4,2020
+AU-2020-76,12/03/20,12/05/20,2,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,1,0.01, $36.8 , $3.7 ,High,CH-0076,Corporate,Qingdao,Shandong,China,North Asia,Dec,Q4,2020
+AU-2020-77,04/28/20,05/07/20,9,First Class,Auto & Accessories,Tyre, $250.0 ,4,0.03, $140.0 , $14.0 ,Critical,NN-0077,Home Office,Kozhikode,Kerala,India,Central Asia,Apr,Q2,2020
+AU-2020-78,12/12/20,12/22/20,10,First Class,Auto & Accessories,Bike Tyres, $72.0 ,4,0.04, $18.0 , $1.8 ,Critical,ON-0078,Corporate,Adelaide,South Australia,Australia,Oceania,Dec,Q4,2020
+AU-2020-79,09/19/20,09/23/20,4,First Class,Auto & Accessories,Car Mat, $54.0 ,5,0.03, $10.8 , $1.1 ,High,LL-0079,Consumer,Kuala Lumpur,Kuala Lumpur,Malaysia,Southeast Asia,Sep,Q3,2020
+AU-2020-80,06/25/20,07/03/20,8,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,1,0.05, $28.3 , $2.8 ,Critical,NS-0080,Consumer,Columbus,Ohio,United States,East,Jun,Q2,2020
+AU-2020-81,01/19/20,01/27/20,8,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,1,0.03, $144.1 , $14.4 ,High,NA-0081,Consumer,Xiangtan,Hunan,China,North Asia,Jan,Q1,2020
+AU-2020-82,06/17/20,06/25/20,8,First Class,Auto & Accessories,Car Media Players, $140.0 ,1,0.01, $58.6 , $5.9 ,High,SH-0082,Corporate,Marikina,National Capital,Philippines,Southeast Asia,Jun,Q2,2020
+AU-2020-83,04/11/20,04/21/20,10,First Class,Auto & Accessories,Car Speakers, $211.0 ,5,0.03, $99.4 , $9.9 ,High,ER-0083,Consumer,Dijon,Burgundy,France,Central,Apr,Q2,2020
+AU-2020-84,06/03/20,06/04/20,1,First Class,Auto & Accessories,Car Body Covers, $117.0 ,3,0.02, $30.0 , $3.0 ,Critical,ON-0084,Consumer,Cairo,Al Qahirah,Egypt,Africa,Jun,Q2,2020
+AU-2020-85,05/23/20,05/24/20,1,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,2,0.04, $28.6 , $2.9 ,High,NI-0085,Consumer,Detroit,Michigan,United States,Central,May,Q2,2020
+AU-2020-86,06/29/20,07/02/20,3,First Class,Auto & Accessories,Tyre, $250.0 ,4,0.05, $120.0 , $12.0 ,Critical,LE-0086,Consumer,New York City,New York,United States,East,Jun,Q2,2020
+AU-2020-87,03/28/20,04/04/20,7,First Class,Auto & Accessories,Bike Tyres, $72.0 ,2,0.02, $36.0 , $3.6 ,High,EN-0087,Consumer,Burnley,England,United Kingdom,North,Mar,Q1,2020
+AU-2020-88,05/12/20,05/19/20,7,First Class,Auto & Accessories,Car Mat, $54.0 ,2,0.03, $27.0 , $2.7 ,Critical,EN-0088,Home Office,Laval,Pays de la Loire,France,Central,May,Q2,2020
+AU-2020-89,03/24/20,03/25/20,1,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,2,0.04, $24.9 , $2.5 ,High,ER-0089,Consumer,Buenos Aires,Buenos Aires,Argentina,South,Mar,Q1,2020
+AU-2020-90,12/28/20,01/01/21,4,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,5,0.04, $104.8 , $10.5 ,Critical,EN-0090,Consumer,Kochi,Kerala,India,Central Asia,Dec,Q4,2020
+AU-2020-91,06/01/20,06/03/20,2,First Class,Auto & Accessories,Car Media Players, $140.0 ,1,0.04, $54.4 , $5.4 ,High,IS-0091,Corporate,Maseru,Maseru,Lesotho,Africa,Jun,Q2,2020
+AU-2020-92,09/07/20,09/12/20,5,First Class,Auto & Accessories,Car Speakers, $211.0 ,3,0.01, $124.7 , $12.5 ,Critical,LL-0092,Corporate,Matagalpa,Matagalpa,Nicaragua,Central,Sep,Q3,2020
+AU-2020-93,11/25/20,12/05/20,10,First Class,Auto & Accessories,Car Body Covers, $117.0 ,2,0.02, $32.3 , $3.2 ,Critical,EN-0093,Consumer,Managua,Managua,Nicaragua,Central,Nov,Q4,2020
+AU-2020-94,07/04/20,07/06/20,2,First Class,Auto & Accessories,Car & Bike Care, $118.0 ,4,0.04, $19.1 , $1.9 ,Critical,DE-0094,Corporate,Strasbourg,Alsace,France,Central,Jul,Q3,2020
+AU-2020-95,07/31/20,08/08/20,8,First Class,Auto & Accessories,Tyre, $250.0 ,4,0.03, $140.0 , $14.0 ,High,ER-0095,Consumer,Surabaya,Jawa Timur,Indonesia,Southeast Asia,Jul,Q3,2020
+AU-2020-96,04/10/20,04/15/20,5,First Class,Auto & Accessories,Bike Tyres, $72.0 ,2,0.01, $36.0 , $3.6 ,Critical,ON-0096,Consumer,Tupã,São Paulo,Brazil,South,Apr,Q2,2020
+AU-2020-97,01/24/20,01/31/20,7,First Class,Auto & Accessories,Car Mat, $54.0 ,5,0.02, $10.8 , $1.1 ,High,ON-0097,Consumer,Vienna,Vienna,Austria,Central,Jan,Q1,2020
+AU-2020-98,03/05/20,03/13/20,8,First Class,Auto & Accessories,Car Seat Covers, $114.0 ,3,0.04, $20.3 , $2.0 ,High,ND-0098,Consumer,Hirakata,Osaka,Japan,North Asia,Mar,Q1,2020
+AU-2020-99,02/15/20,02/20/20,5,First Class,Auto & Accessories,Car Pillow & Neck Rest, $231.0 ,2,0.02, $141.8 , $14.2 ,Critical,ND-0099,Home Office,Granollers,Catalonia,Spain,South,Feb,Q1,2020
